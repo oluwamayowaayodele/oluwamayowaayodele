@@ -1,10 +1,10 @@
-# Hi, I'm Mayowa Ayodele
+# Hi, I'm Oluwamayowa Ayodele
 
 **Revenue Operations · GTM Systems · Analytics & Automation**
 
-I help enterprise software companies run a go-to-market engine their teams can trust: clean CRM data, reliable reporting and workflows that turn signals into action. My background is in enterprise finance software and payments/fintech, selling into complex, multi-stakeholder buying groups. I'm now building towards solutions engineering: connecting what a business needs to a practical technical solution.
+I help enterprise software companies run a go-to-market engine their teams can trust: clean CRM data, reliable reporting and AI-enabled workflows that turn signals into action. My background is in enterprise finance software and payments/fintech, supporting sales into complex, multi-stakeholder buying groups. I'm building towards GTM engineering and solutions engineering: turning what a business needs into working systems.
 
-Open to Revenue Operations, GTM systems, analytics and solutions engineering roles in enterprise SaaS, particularly finance software (ERP, accounting, financial data) and AI products.
+Open to AI / Revenue Operations, GTM engineering and solutions engineering roles in enterprise SaaS, particularly finance software (ERP, accounting, financial data) and AI products.
 
 ## Experience
 
