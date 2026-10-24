@@ -55,4 +55,6 @@ I have a degree in Philosophy, Politics and Economics, an interest in financial 
 
 Across all of it, I enjoy understanding how systems work and making complex information useful to the people making decisions.
 
-<!-- Add a "Get in touch" line here with your LinkedIn URL, e.g. [LinkedIn](https://www.linkedin.com/in/your-handle) -->
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/oluwamayowa-ayodele-a05541280/)
