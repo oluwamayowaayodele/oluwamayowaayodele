@@ -2,7 +2,7 @@
 
 **Revenue Operations · GTM Systems · Analytics, AI Workflows & Automation**
 
-I help enterprise software companies run a go-to-market engine their teams can trust: clean CRM data, reliable reporting and AI-enabled workflows that turn signals into action. My background is in enterprise finance software and payments/fintech, supporting sales into complex, multi-stakeholder buying groups. I'm building towards GTM engineering, solutions engineering, and continued strategic ownership within GTM: turning what a business needs into working systems and developing effective GTM motions.
+I help enterprise software companies run a go-to-market engine their teams can trust: clean CRM data, reliable reporting and AI-enabled workflows that turn signals into action. My background is in enterprise finance software and payments/fintech, supporting sales into complex, multi-stakeholder buying groups. I'm building towards GTM engineering, solutions engineering, and continued strategic ownership within GTM as a RevOps and AI Operations Specialist: turning what a business needs into working systems and developing effective GTM motions.
 
 Open to Revenue Operations, GTM engineering, solutions engineering and AI-enabled operations roles in enterprise SaaS, particularly finance software (ERP, accounting, financial data) and AI products. I’m also open to product-adjacent roles. I care less about title than scope: if a role offers meaningful ownership, rewards iteration and gives me room to build and grow, I’m open to the conversation.
 
